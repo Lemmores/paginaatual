@@ -1,0 +1,11 @@
+body{
+	background-color: #060606;
+	font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+hr{
+   border-color: #e9e8e7;
+   border-style: dotted none none none;
+   border-width: 5px;
+   
+   }
